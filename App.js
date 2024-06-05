@@ -90,3 +90,6 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
   },
 });
+
+// npm install -g eas-cli
+// eas build -p android
